@@ -16,8 +16,8 @@ public class ModBusCommunication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Oie Mundo");
-        
+        System.out.print("Oie Mundo 1.1");
+        int i =1;
                 
     }
     
